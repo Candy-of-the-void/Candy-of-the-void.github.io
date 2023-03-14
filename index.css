@@ -1,0 +1,13 @@
+body {
+    background-image: url("aesthetic purple dp.jpg");
+    color: rgb(232, 118, 5);
+  }
+  nav a {
+    color: aqua;
+    background-color:rgb(232, 118, 5);
+    font-size: x-large;
+    padding:1rem;
+  }
+  article {
+    font-size: x-large;
+  }
